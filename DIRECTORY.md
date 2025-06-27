@@ -741,6 +741,8 @@
               * [ZigZagPattern](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/strings/zigZagPattern/ZigZagPattern.java)
           * tree
             * [HeavyLightDecomposition](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/tree/HeavyLightDecomposition.java)
+      * utils
+        * [MathUtils](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/utils/MathUtils.java)
   * test
     * java
       * com
